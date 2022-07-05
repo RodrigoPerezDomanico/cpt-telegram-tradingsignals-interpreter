@@ -1,0 +1,9 @@
+BINANCE
+APEUSDT SHORT
+Leverage: Cross 40x
+Entry: 5.967
+Target 1: 5.937 - 30%
+Target 2: 5.854 - 20%
+Target 3: 5.758 - 25%
+Target 4: 5.752 - 25%
+Stoploss: 6.116
